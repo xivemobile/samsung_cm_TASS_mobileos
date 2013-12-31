@@ -1,13 +1,3 @@
-ui_print(" ");
-ui_print("************************");
-ui_print("Xive!MobileOS - v10.1.1");
-ui_print("Build: Samsung GT-S5570");
-ui_print("************************");
-ui_print("(C) 2013 by devXive and ");
-ui_print("WALZ.ag, Dep: RAD");
-ui_print("Maintainer: Lahmizzar");
-ui_print(" ");
-
 assert(getprop("ro.product.device") == "tass" || getprop("ro.build.product") == "tass" || 
        getprop("ro.product.device") == "GT-S5570" || getprop("ro.build.product") == "GT-S5570");
 mount("ext4", "EMMC", "/dev/block/stl12", "/system");
