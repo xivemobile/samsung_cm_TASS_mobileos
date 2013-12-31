@@ -1,0 +1,23 @@
+***************************************************************************
+Welcome to Handy Informations
+- By Yagya Gaire.
+***************************************************************************
+So, how does one use this tool? It's simple follow easy steps from below:
+1. Put all your .PNG Files that you want to convert to .RLE into the PNG-Images folder.
+2. Run image-2-rle.bat
+3. What are you expecting? It's already over. Check out the RLE-Images folder for your RLE file.
+
+Want to convert the RLE back to PNG? 
+1. Put *.RLE in RLE-Images folder.
+2. Run/Double Click RLE-2-PNG.bat file.
+3. Look for you PNG in PNG-Images folder.
+
+So, it was quite simple. Happy Converting!
+
+***************************************************************************************************
+Download From http://yagyagaire.blogspot.com
+
+For more Android and Samsung Galaxy Mini Stuffs, visit http://yagyagaire.blogspot.com
+
+Thanks For downloading. Please keep this file intact if you want to share this tool.
+**************************************************************************************************
